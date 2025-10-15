@@ -1,0 +1,415 @@
+[
+    {
+        "staffId": 112175,
+        "name": "Dr. Sandip Kumar Goyal",
+        "mobile": "8059930872",
+        "email": "hodce@mmumullana.org",
+        "designation": "Prof & Head"
+    },
+    {
+        "staffId": 112423,
+        "name": "Dr. Vishal Bharti",
+        "mobile": "9899208542",
+        "email": "vishal.bharti@mmumullana.org",
+        "designation": "Prof."
+    },
+    {
+        "staffId": 112171,
+        "name": "Dr. Rajneesh Kumar Gujral",
+        "mobile": "8059930857",
+        "email": "drrajneeshgujral@mmumullana.org",
+        "designation": "Prof."
+    },
+    {
+        "staffId": 112172,
+        "name": "Dr. Sanjeev Kumar",
+        "mobile": "8059920856",
+        "email": "dr.sanjeevrana@mmumullana.org",
+        "designation": "Prof."
+    },
+    {
+        "staffId": 112296,
+        "name": "Dr. Amit Kumar Bindal",
+        "mobile": "8059930868",
+        "email": "amitbindal@mmumullana.org",
+        "designation": "Prof."
+    },
+    {
+        "staffId": 112367,
+        "name": "Dr. Neera Batra",
+        "mobile": "8059930914",
+        "email": "neera.batra@mmumullana.org",
+        "designation": "Prof."
+    },
+    {
+        "staffId": 112309,
+        "name": "Dr. Kamal Prakash",
+        "mobile": "9416452826",
+        "email": "jindalkamal@mmumullana.org",
+        "designation": "Prof."
+    },
+    {
+        "staffId": 112295,
+        "name": "Dr. Neeraj Mangla",
+        "mobile": "8059930867",
+        "email": "neerajmangla@mmumullana.org",
+        "designation": "Prof."
+    },
+    {
+        "staffId": 112317,
+        "name": "Dr. Suneet Kumar",
+        "mobile": "9760184815",
+        "email": "suneetcit81@mmumullana.org",
+        "designation": "Prof."
+    },
+    {
+        "staffId": 112479,
+        "name": "Dr. Amandeep Kaur",
+        "mobile": "8059930891",
+        "email": "amandeepkaur@mmumullana.org",
+        "designation": "Prof."
+    },
+    {
+        "staffId": 112297,
+        "name": "Dr. Sandhya Bansal",
+        "mobile": "7988561098",
+        "email": "sandhyabansal@mmumullana.org",
+        "designation": "Prof."
+    },
+    {
+        "staffId": 112422,
+        "name": "Dr. Vaishali Mehta",
+        "mobile": "8950683646",
+        "email": "dr.vaishalimehta@mmumullana.org",
+        "designation": "Prof."
+    },
+    {
+        "staffId": 150048,
+        "name": "Dr. Munishwar Rai",
+        "mobile": "9416496524",
+        "email": "munishwar.rai@mmumullana.org",
+        "designation": "Prof."
+    },
+    {
+        "staffId": 112442,
+        "name": "Dr. Deepak Dudeja",
+        "mobile": "9466794142",
+        "email": "deepak.dudeja@mmumullana.org",
+        "designation": "Prof."
+    },
+    {
+        "staffId": 112526,
+        "name": "Dr. Parul Goyal",
+        "mobile": "7456922679",
+        "email": "parul.goyal@mmumullana.org",
+        "designation": "Prof."
+    },
+    {
+        "staffId": 112584,
+        "name": "Dr. Anil Kumar Lamba",
+        "mobile": "9416344059",
+        "email": "anilkumarlamba@mmumullana.org",
+        "designation": "Prof."
+    },
+    {
+        "staffId": 112112,
+        "name": "Dr. Neeraj Raheja",
+        "mobile": "9812086737",
+        "email": "neeraj_raheja2003@mmumullana.org",
+        "designation": "Prof."
+    },
+    {
+        "staffId": 112186,
+        "name": "Dr. Rajeev Gupta",
+        "mobile": "9354760647",
+        "email": "rajeev.gupta@mmumullana.org",
+        "designation": "Prof."
+    },
+    {
+        "staffId": 112586,
+        "name": "Dr. Kamal Malik",
+        "mobile": "715048467",
+        "email": "kamal_malik@mmumullana.org",
+        "designation": "Prof."
+    },
+    {
+        "staffId": 112199,
+        "name": "Dr. Bhupesh Gupta",
+        "mobile": "9466741044",
+        "email": "Bhupeshgupta81@mmumullana.org",
+        "designation": "Prof."
+    },
+    {
+        "staffId": 112003,
+        "name": "Dr. Prachi Garg",
+        "mobile": "9812700761",
+        "email": "prachigarg@mmumullana.org",
+        "designation": "Assoc. Prof."
+    },
+    {
+        "staffId": 112259,
+        "name": "Dr. Bandana Sharma",
+        "mobile": "7419832075",
+        "email": "bandana@mmumullana.org",
+        "designation": "Assoc. Prof."
+    },
+    {
+        "staffId": 112185,
+        "name": "Dr. Satyaveer Singh",
+        "mobile": "9728103525",
+        "email": "satyaveer.sangwan@mmumullana.org",
+        "designation": "Assoc. Prof."
+    },
+    {
+        "staffId": 112318,
+        "name": "Dr. Sonali Goyal",
+        "mobile": "8929224410",
+        "email": "sonaligoyal@mmumullana.org",
+        "designation": "Assoc. Prof."
+    },
+    {
+        "staffId": 112183,
+        "name": "Dr. Rohini Sharma",
+        "mobile": "9813212966",
+        "email": "rohini@mmumullana.org",
+        "designation": "Assoc. Prof."
+    },
+    {
+        "staffId": 112549,
+        "name": "Dr. Lalit Bansal",
+        "mobile": "8421200007",
+        "email": "lalit.kumar@mmumullana.org",
+        "designation": "Assoc. Prof."
+    },
+    {
+        "staffId": 112485,
+        "name": "Dr. Sumit Kumar",
+        "mobile": "9416310669",
+        "email": "sumit.kumar@mmumullana.org",
+        "designation": "Assoc. Prof."
+    },
+    {
+        "staffId": 112585,
+        "name": "Dr. Aayush Shrivastava",
+        "mobile": "9806944007",
+        "email": "aayush.shrivastava@mmumullana.org",
+        "designation": "Assoc. Prof."
+    },
+    {
+        "staffId": 112591,
+        "name": "Dr. Sumit Kumar",
+        "mobile": "9888987222",
+        "email": "sumit_kumar@mmumullana.org",
+        "designation": "Assoc. Prof."
+    },
+    {
+        "staffId": 112289,
+        "name": "Dr. Mohit Chhabra",
+        "mobile": "9812593007",
+        "email": "Chhabra108@mmumullana.org",
+        "designation": "Assoc. Prof."
+    },
+    {
+        "staffId": 112551,
+        "name": "Dr. Deepika",
+        "mobile": "9729822286",
+        "email": "dr.deepika@mmumullana.org",
+        "designation": "Assoc. Prof."
+    },
+    {
+        "staffId": 112341,
+        "name": "Dr. Charu Sharma",
+        "mobile": "9996483986",
+        "email": "er.charusharma@mmumullana.org",
+        "designation": "Assoc. Prof."
+    },
+    {
+        "staffId": 112474,
+        "name": "Dr. Misha Mittal",
+        "mobile": "8968645831",
+        "email": "misha.mittal@mmumullana.org",
+        "designation": "Assoc. Prof."
+    },
+    {
+        "staffId": 112601,
+        "name": "Dr. Aashdeep Singh",
+        "mobile": "9729251447",
+        "email": "aashdeepsingh123@gmail.com",
+        "designation": "Assoc. Prof."
+    },
+    {
+        "staffId": 112602,
+        "name": "Dr. Poonam Singh",
+        "mobile": "8571819424",
+        "email": "poonam.rani4@gmail.com",
+        "designation": "Assoc. Prof."
+    },
+    {
+        "staffId": 112290,
+        "name": "Dr. Puneet Banga",
+        "mobile": "9991761926",
+        "email": "pbanga@mmumullana.org",
+        "designation": "Asst. Prof."
+    },
+    {
+        "staffId": 112327,
+        "name": "Mr. Surinder Pal Singh",
+        "mobile": "8059930949",
+        "email": "s.p.singh@mmumullana.org",
+        "designation": "Asst. Prof."
+    },
+    {
+        "staffId": 112235,
+        "name": "Mr. Vishal Gupta",
+        "mobile": "7988367291",
+        "email": "vishal.gupta@mmumullana.org",
+        "designation": "Asst. Prof."
+    },
+    {
+        "staffId": 112342,
+        "name": "Ms. Arpaneek Kaur",
+        "mobile": "8847429609",
+        "email": "arpneek.kaur@mmumullana.org",
+        "designation": "Asst. Prof."
+    },
+    {
+        "staffId": 112305,
+        "name": "Ms. Neelam Oberoi",
+        "mobile": "6239088288",
+        "email": "neelamoberoi@mmumullana.org",
+        "designation": "Asst. Prof."
+    },
+    {
+        "staffId": 112396,
+        "name": "Mr. Ankur Mangla",
+        "mobile": "8059930869",
+        "email": "Ankurmangla2006@mmumullana.org",
+        "designation": "Asst. Prof."
+    },
+    {
+        "staffId": 112473,
+        "name": "Dr. Mani Goyal",
+        "mobile": "8306810294",
+        "email": "dr.mani.goyal@mmumullana.org",
+        "designation": "Asst. Prof."
+    },
+    {
+        "staffId": 112387,
+        "name": "Mr. Hemant Sethi",
+        "mobile": "9812334426",
+        "email": "hemant.sethi@mmumullana.org",
+        "designation": "Asst. Prof."
+    },
+    {
+        "staffId": 112390,
+        "name": "Dr. Naveen Malik",
+        "mobile": "8059952600",
+        "email": "naveenmalik@mmumullana.org",
+        "designation": "Asst. Prof."
+    },
+    {
+        "staffId": 112391,
+        "name": "Dr. Vinisha Sumra",
+        "mobile": "9728530202",
+        "email": "vinishamalik@mmumullana.org",
+        "designation": "Asst. Prof."
+    },
+    {
+        "staffId": 112441,
+        "name": "Dr. Vineeta",
+        "mobile": "9416979400",
+        "email": "vineetaarora04@mmumullana.org",
+        "designation": "Asst. Prof."
+    },
+    {
+        "staffId": 112512,
+        "name": "Ms. Kajal Mittal",
+        "mobile": "9253746103",
+        "email": "kajal.mittal@mmumullana.org",
+        "designation": "Asst. Prof."
+    },
+    {
+        "staffId": 112532,
+        "name": "Ms. Jyoti Garg",
+        "mobile": "8708349261",
+        "email": "jyotigarg@mmumullana.org",
+        "designation": "Asst. Prof."
+    },
+    {
+        "staffId": 112511,
+        "name": "Ms. Aknaksha Bhardwaj",
+        "mobile": "7494946776",
+        "email": "akanksha.bhardwaj@mmumullana.org",
+        "designation": "Asst. Prof."
+    },
+    {
+        "staffId": 112545,
+        "name": "Ms. Anupam Bonkra",
+        "mobile": "9991240330",
+        "email": "anupam.bonkra@mmumullana.org",
+        "designation": "Asst. Prof."
+    },
+    {
+        "staffId": 112543,
+        "name": "Ms. Nikita Sharma",
+        "mobile": "9729506061",
+        "email": "nitika.sharma@mmumullana.org",
+        "designation": "Asst. Prof."
+    },
+    {
+        "staffId": 112567,
+        "name": "Ms. Sonam Bajaj",
+        "mobile": "7206655950",
+        "email": "sonam.bajaj@mmumullana.org",
+        "designation": "Asst. Prof."
+    },
+    {
+        "staffId": 112568,
+        "name": "Mohd. Shahrukh",
+        "mobile": "9084534558",
+        "email": "mohd.shahrukh@mmumullana.org",
+        "designation": "Asst. Prof."
+    },
+    {
+        "staffId": 112571,
+        "name": "Ms. Neetika Gupta",
+        "mobile": "8295447003",
+        "email": "neetika.gupta@mmumullana.org",
+        "designation": "Asst. Prof."
+    },
+    {
+        "staffId": 112575,
+        "name": "Ms. Ritu Aggarwal",
+        "mobile": "8930139865",
+        "email": "ritu_aggarwal@mmumullana.org",
+        "designation": "Asst. Prof."
+    },
+    {
+        "staffId": 112573,
+        "name": "Mr. Anup lal Yadav",
+        "mobile": "9355166889",
+        "email": "anup.yadav@mmumullana.org",
+        "designation": "Asst. Prof."
+    },
+    {
+        "staffId": 112588,
+        "name": "Dr. Bhavana",
+        "mobile": "9996481363",
+        "email": "dr.bhavana@mmumullana.org",
+        "designation": "Asst. Prof."
+    },
+    {
+        "staffId": 112589,
+        "name": "Ms. Kanika",
+        "mobile": "9813367355",
+        "email": "kanika.pahwa@mmumullana.org",
+        "designation": "Asst. Prof."
+    },
+    {
+        "staffId": 112594,
+        "name": "Dr. Surbhi Dhiman",
+        "mobile": "8295200614",
+        "email": "surbhi.dhiman@mmumullana.org",
+        "designation": "Asst. Prof."
+    }
+]
